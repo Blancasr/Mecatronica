@@ -9,3 +9,5 @@ Primer cambio
             -    w    -
              -   x   -
                -----
+
+![](Ejercicio2-img1.gif)
